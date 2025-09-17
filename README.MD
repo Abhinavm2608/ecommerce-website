@@ -23,9 +23,10 @@ JavaScript:
  Getting Started:
 To run this project locally, simply follow these steps:
 
-1)Clone the repository: If this were on GitHub, you would use git clone [repository-url].
+1)Clone the repository: If this were on GitHub, you would use git clone [https://github.com/Abhinavm2608/ecommerce-website].
 
 2)Navigate to the project directory: Open the folder where the files are located.
 
 3)Open index.html: Simply double-click the index.html file or open it in your web browser of choice (e.g., Chrome, Firefox, Edge).
+
 
