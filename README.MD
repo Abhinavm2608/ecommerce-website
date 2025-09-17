@@ -28,7 +28,9 @@ To run this project locally, simply follow these steps:
 2)Navigate to the project directory: Open the folder where the files are located.
 
 3)Open index.html: Simply double-click the index.html file or open it in your web browser of choice (e.g., Chrome, Firefox, Edge).
+
 4)To run on any device:http://bucolic-naiad-487140.netlify.app
+
 
 
 
